@@ -28,6 +28,19 @@ https://huggingface.co/Kwai-Kolors/Kolors-IP-Adapter-FaceID-Plus
 
 推理：
 python controlnet/sample_controlNet_ipadapter_pose_tryon.py     OR    bash tryon.sh
+
+以下是一些训练测试记录
+![image](https://github.com/user-attachments/assets/822b5084-0250-44ff-bb7a-47b218d012c2)
+
+![image](https://github.com/user-attachments/assets/d52abf20-6eef-4f5a-baca-988fafbbea26)
+
+![image](https://github.com/user-attachments/assets/a0a5a464-a15d-48c1-b1ea-407c538d72a8)
+
+![image](https://github.com/user-attachments/assets/0504e3d0-0d64-40ab-93dd-fe9f3c21b5af)
+
+![image](https://github.com/user-attachments/assets/c6d76dbd-b564-4a8f-8a41-5526670b7854)
+
+
 ##############################以下为原仓库#######################################
 <p align="left">
     中文</a>&nbsp ｜ &nbsp<a href="README.md">English</a>&nbsp
