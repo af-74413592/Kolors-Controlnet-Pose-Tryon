@@ -18,7 +18,7 @@ https://huggingface.co/Kwai-Kolors/Kolors-IP-Adapter-FaceID-Plus
 
 ![img_v3_02iu_b0dec37b-1463-46e4-bb47-58d49ba12d4g](https://github.com/user-attachments/assets/64e64906-73ea-4263-b8c6-77860f665e3b)
 
-这两个工具装完应该是这种结构
+这个工具装完后，运行代码会自动下载，如果结构不对，可以参考调整。
 
 关于comfyui使用，提供了一个example
 ![img_v3_02iu_c2121674-d70f-4056-9a99-4bcfe93201ag](https://github.com/user-attachments/assets/197341f3-9900-4d24-add7-6001fbb5c0d1)
