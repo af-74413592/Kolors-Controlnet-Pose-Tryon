@@ -100,7 +100,7 @@ def infer( garment_image_path='./00000_00.jpg', ip_image_path = './00001_00.jpg'
     scheduler = EulerDiscreteScheduler.from_pretrained(f"{ckpt_dir}/scheduler")
     unet = UNet2DConditionModel.from_pretrained(f"{ckpt_dir}/unet", revision=None).to(dtype=torch.bfloat16)
 
-    control_path = f'{root_dir}/weights/controlnet_pose_tryon'
+    control_path = f'{root_dir}/weights/Kolors-Controlnet-Pose-Tryon'
     controlnet = ControlNetModel.from_pretrained( control_path , revision=None).to(dtype=torch.bfloat16)
 
     face_info_generator = FaceInfoGenerator(root_dir = "./")
