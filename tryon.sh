@@ -1,0 +1,1 @@
+python controlnet/sample_controlNet_ipadapter_pose_tryon.py
