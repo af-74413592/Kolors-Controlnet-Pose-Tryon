@@ -1,4 +1,5 @@
 Update Infos：
+
 Controlnet权重：
 https://huggingface.co/haowu11/Kolors-Controlnet-Pose-Tryon   |（BF16）
 
@@ -22,13 +23,15 @@ https://huggingface.co/Kwai-Kolors/Kolors-IP-Adapter-FaceID-Plus
 关于comfyui使用，提供了一个example
 ![img_v3_02iu_c2121674-d70f-4056-9a99-4bcfe93201ag](https://github.com/user-attachments/assets/197341f3-9900-4d24-add7-6001fbb5c0d1)
 
+关于训练：
+训练代码train_controlnet.py 在单卡H100机器训练了30000轮
 
+推理：
+python controlnet/sample_controlNet_ipadapter_pose_tryon.py
 
+or
 
-
-
-
-
+bash tryon.sh
 ##############################以下为原仓库#######################################
 <p align="left">
     中文</a>&nbsp ｜ &nbsp<a href="README.md">English</a>&nbsp
