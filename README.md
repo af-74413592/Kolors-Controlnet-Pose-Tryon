@@ -1,4 +1,4 @@
-Update Infos：
+Update Infos：权重下载到weights文件夹下（如果没有新建一个）
 
 Controlnet权重：
 https://huggingface.co/haowu11/Kolors-Controlnet-Pose-Tryon   |（BF16）
