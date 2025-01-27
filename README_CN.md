@@ -2,7 +2,7 @@ Update Infos：
 Controlnet权重：
 https://huggingface.co/haowu11/Kolors-Controlnet-Pose-Tryon  
 
-
+（BF16）
 
 
 ![img_v3_02iu_c2121674-d70f-4056-9a99-4bcfe93201ag](https://github.com/user-attachments/assets/197341f3-9900-4d24-add7-6001fbb5c0d1)
