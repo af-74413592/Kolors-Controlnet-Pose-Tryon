@@ -1,8 +1,10 @@
 Update Infos：
 Controlnet权重：
 https://huggingface.co/haowu11/Kolors-Controlnet-Pose-Tryon   |（BF16）
+
 Backbone权重：
 https://huggingface.co/Kwai-Kolors/Kolors
+
 Ipadapter-FaceID:
 https://huggingface.co/Kwai-Kolors/Kolors-IP-Adapter-FaceID-Plus
 
