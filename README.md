@@ -27,7 +27,7 @@ https://huggingface.co/Kwai-Kolors/Kolors-IP-Adapter-FaceID-Plus
 训练代码train_controlnet.py 在单卡H100机器训练了30000轮
 
 推理：
-python controlnet/sample_controlNet_ipadapter_pose_tryon.py     or    bash tryon.sh
+python controlnet/sample_controlNet_ipadapter_pose_tryon.py     OR    bash tryon.sh
 ##############################以下为原仓库#######################################
 <p align="left">
     中文</a>&nbsp ｜ &nbsp<a href="README.md">English</a>&nbsp
