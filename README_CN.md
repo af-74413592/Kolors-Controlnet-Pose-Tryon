@@ -9,6 +9,7 @@ https://huggingface.co/haowu11/Kolors-Controlnet-Pose-Tryon   |（BF16）
 
 
 本仓库实现了一种经由controlnet引导的tryon网络，controlnet输入为openpose与garment服装拼接图片，IPadapter-FaceID输入人脸，输出为tryon模特图片与garment还原，支持中文prompt提示（借鉴了CatVton思路）
+![image](https://github.com/user-attachments/assets/8f7f6e8a-b05e-4233-8c2d-e9e769fa3c11)
 
 
 
