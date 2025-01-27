@@ -1,3 +1,21 @@
+Update Infos：
+Controlnet权重：
+https://huggingface.co/haowu11/Kolors-Controlnet-Pose-Tryon  
+TO BE Continued
+
+
+
+
+
+
+
+
+
+
+
+
+
+###############################################以下为原仓库#########################################################
 <p align="left">
     中文</a>&nbsp ｜ &nbsp<a href="README.md">English</a>&nbsp
 </p>
