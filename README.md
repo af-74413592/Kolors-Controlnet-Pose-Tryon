@@ -1,3 +1,5 @@
+demo测试：https://huggingface.co/spaces/haowu11/Kolors-Controlnet-Pose-Tryon
+
 Update Infos：权重下载到weights文件夹下（如果没有新建一个）
 
 Controlnet权重：
@@ -27,7 +29,10 @@ https://huggingface.co/Kwai-Kolors/Kolors-IP-Adapter-FaceID-Plus
 训练代码train_controlnet.py 在单卡H100机器训练了30000轮
 
 推理：
-python controlnet/sample_controlNet_ipadapter_pose_tryon.py     OR    bash tryon.sh
+python controlnet/sample_controlNet_ipadapter_pose_tryon.py     或者    bash tryon.sh
+
+webui:
+python app.py
 
 以下是一些训练测试记录
 ![image](https://github.com/user-attachments/assets/822b5084-0250-44ff-bb7a-47b218d012c2)
