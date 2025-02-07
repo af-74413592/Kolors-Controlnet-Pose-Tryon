@@ -200,7 +200,7 @@ with block:
         prompt = gr.Textbox(value="这张图片上的模特穿着一件黑色的长袖T恤，T恤上印着彩色的字母'OBEY'。她还穿着一条牛仔裤。", show_label=False, elem_id="prompt")
         negative_prompt = gr.Textbox(value="nsfw，脸部阴影，低分辨率，糟糕的解剖结构、糟糕的手，缺失手指、质量最差、低质量、jpeg伪影、模糊、糟糕，黑脸，霓虹灯", show_label=False, elem_id="negative_prompt")
         n_samples = gr.Slider(label="Images", minimum=1, maximum=4, value=1, step=1)
-        n_steps = gr.Slider(label="Steps", minimum=20, maximum=40, value=20, step=1)
+        n_steps = gr.Slider(label="Steps", minimum=20, maximum=50, value=20, step=1)
         seed = gr.Slider(label="Seed", minimum=-1, maximum=2147483647, step=1, value=-1)
         run_button = gr.Button(value="Run")
     ips = [face_img,pose_img, garm_img, prompt,negative_prompt, n_samples, n_steps, seed]
