@@ -140,7 +140,7 @@ def infer(face_img,pose_img, garm_img, prompt,negative_prompt, n_samples, n_step
 block = gr.Blocks().queue()
 with block:
     with gr.Row():
-        gr.Markdown("# KolorsControlnerTryon Demo")
+        gr.Markdown("# KolorsControlnetTryon Demo")
     with gr.Row():
         with gr.Column():
             pose_img = gr.Image(label="Pose", sources='upload', type="filepath", height=768, value=os.path.join(example_path, 'pose/1.jpg'))
