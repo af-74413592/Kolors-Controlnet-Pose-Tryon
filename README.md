@@ -17,8 +17,11 @@ https://huggingface.co/Kwai-Kolors/Kolors-IP-Adapter-FaceID-Plus
 
 关于insightface安装：
 ![img_v3_02iu_b45ab3c6-607f-4b97-a5d6-d6b51a69bd8g](https://github.com/user-attachments/assets/aec04f2c-f63b-40b9-9e1c-547926174b83)
+手动下载链接https://huggingface.co/rupeshs/antelopev2/tree/main
 
 ![img_v3_02iu_b0dec37b-1463-46e4-bb47-58d49ba12d4g](https://github.com/user-attachments/assets/64e64906-73ea-4263-b8c6-77860f665e3b)
+https://huggingface.co/yzd-v/DWPose/blob/main/dw-ll_ucoco_384.onnx
+https://huggingface.co/yzd-v/DWPose/blob/main/yolox_l.onnx
 
 这个工具装完后，运行代码会自动下载，如果结构不对，可以参考调整。
 
